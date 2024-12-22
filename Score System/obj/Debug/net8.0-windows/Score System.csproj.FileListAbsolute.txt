@@ -1,0 +1,17 @@
+C:\Users\airon\source\repos\Score System\Score System\bin\Debug\net8.0-windows\Score System.exe
+C:\Users\airon\source\repos\Score System\Score System\bin\Debug\net8.0-windows\Score System.deps.json
+C:\Users\airon\source\repos\Score System\Score System\bin\Debug\net8.0-windows\Score System.runtimeconfig.json
+C:\Users\airon\source\repos\Score System\Score System\bin\Debug\net8.0-windows\Score System.dll
+C:\Users\airon\source\repos\Score System\Score System\bin\Debug\net8.0-windows\Score System.pdb
+C:\Users\airon\source\repos\Score System\Score System\obj\Debug\net8.0-windows\Score_System.Form1.resources
+C:\Users\airon\source\repos\Score System\Score System\obj\Debug\net8.0-windows\Score System.csproj.GenerateResource.cache
+C:\Users\airon\source\repos\Score System\Score System\obj\Debug\net8.0-windows\Score System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airon\source\repos\Score System\Score System\obj\Debug\net8.0-windows\Score System.AssemblyInfoInputs.cache
+C:\Users\airon\source\repos\Score System\Score System\obj\Debug\net8.0-windows\Score System.AssemblyInfo.cs
+C:\Users\airon\source\repos\Score System\Score System\obj\Debug\net8.0-windows\Score System.csproj.CoreCompileInputs.cache
+C:\Users\airon\source\repos\Score System\Score System\obj\Debug\net8.0-windows\Score System.dll
+C:\Users\airon\source\repos\Score System\Score System\obj\Debug\net8.0-windows\refint\Score System.dll
+C:\Users\airon\source\repos\Score System\Score System\obj\Debug\net8.0-windows\Score System.pdb
+C:\Users\airon\source\repos\Score System\Score System\obj\Debug\net8.0-windows\Score System.genruntimeconfig.cache
+C:\Users\airon\source\repos\Score System\Score System\obj\Debug\net8.0-windows\ref\Score System.dll
+C:\Users\airon\source\repos\Score System\Score System\obj\Debug\net8.0-windows\Score_System.Properties.Resources.resources
